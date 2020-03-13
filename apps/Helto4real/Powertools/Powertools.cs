@@ -3,9 +3,9 @@ using JoySoftware.HomeAssistant.NetDaemon.Common;
 
 // Use unique namespaces for your apps if you going to share with others to avoid
 // conflicting names
-namespace HelloWorld
+namespace Helto4real.Powertools
 {
-    public class HelloWorldApp : NetDaemonApp
+    public class PowertoolsApp : NetDaemonApp
     {
         public async override Task InitializeAsync()
         {
